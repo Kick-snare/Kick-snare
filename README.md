@@ -1,5 +1,7 @@
 ### Hi there 👋 
-wanna be dev, I'm **Kick-snare** (hyjhyj0901)
+wanna be dev, I'm **Kick-snare** (hyjhyj0901)  
+nowadays I'm interested in android development with Jetpack Compose
+
 
 ### 경력
 - (2018) 교내 프로그래밍 공통기초평가 우수상
@@ -15,3 +17,12 @@ wanna be dev, I'm **Kick-snare** (hyjhyj0901)
 - (2022) 패스핵 3rd PATH-HACK 대상 (부산중소기업벤처청장상)
 - (2022) 조프입, 조료구조, 조고리즘 모두 A+ 교내 엘리트 코스 달리는 중
 - (2022) 제10회 K-해커톤 본선 진출
+
+### Links
+<p align="center">
+  
+<a href="https://www.instagram.com/h_uz99/">![](https://img.shields.io/badge/Instagram-D31C46?style=flat-square&logo=Instagram&logoColor=white)</a>
+<a href="https://www.uzun.dev">![](https://img.shields.io/badge/uzun.dev-000000?style=flat-square&logo=Storyblok&logoColor=white)</a>
+<a href="https://solved.ac/profile/kick_snare">[![](http://mazassumnida.wtf/api/mini/generate_badge?boj=kick_snare)](https://solved.ac/kick_snare)</a>
+
+</p>
