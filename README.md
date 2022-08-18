@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there 👋 
+wanna be dev, I'm **Kick-snare** (hyjhyj0901)
 
-<!--
-**Kick-snare/Kick-snare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 경력
+- (2018) 교내 프로그래밍 공통기초평가 우수상
+- (2018) 삼성전자 DS부문 육목 SW 알고리즘 대회 참가
+- (2020) 국방오픈소스아카데이 OSAM 군장병 SW해커톤 본선 진출
+- (2021) 교내 과제 채점사이트 NESPA 개발 참여
+- (2021) 부산대학교 제4회 창의융합 SW해커톤 우수상 (정보화본부장상)
+- (2021) 제 6회 부산ICT융합해카톤 대회 참가
+- (2021) 제 8회 대한민국 SW 융합해커톤 우수상 (부산시장상)
+- (2021) 청각장애인을 위한 육아 도우미 시스템 특허 출원
+- (2021) 교내 수강신청 연습 사이트 개발
+- (2022) 교내 전공과목 컴퓨터프로그래밍입문 강의 실습조교 활동
+- (2022) 패스핵 3rd PATH-HACK 대상 (부산중소기업벤처청장상)
+- (2022) 제10회 K-해커톤 본선 진출
