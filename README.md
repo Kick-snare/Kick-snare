@@ -22,7 +22,7 @@ nowadays I'm interested in android development with Jetpack Compose
 <p align="center">
   
 <a href="https://www.instagram.com/h_uz99/">![](https://img.shields.io/badge/Instagram-D31C46?style=flat-square&logo=Instagram&logoColor=white)</a>
-<a href="https://www.uzun.dev">![](https://img.shields.io/badge/uzun.dev-000000?style=flat-square&logo=Storyblok&logoColor=white)</a>
+<a href="https://uzun.dev">![](https://img.shields.io/badge/uzun.dev-000000?style=flat-square&logo=Storyblok&logoColor=white)</a>
 <a href="https://solved.ac/profile/kick_snare">[![](http://mazassumnida.wtf/api/mini/generate_badge?boj=kick_snare)](https://solved.ac/kick_snare)</a>
 
 </p>
