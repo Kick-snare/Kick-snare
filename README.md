@@ -3,7 +3,7 @@ wanna be dev, I'm **Kick-snare** (hyjhyj0901)
 nowadays I'm interested in android development with Jetpack Compose
 
 
-### 경력
+### Event & Award
 - (2018) 교내 프로그래밍 공통기초평가 우수상
 - (2018) 삼성전자 DS부문 육목 SW 알고리즘 대회 참가
 - (2020) 국방오픈소스아카데이 OSAM 군장병 SW해커톤 본선 진출
@@ -13,7 +13,14 @@ nowadays I'm interested in android development with Jetpack Compose
 - (2022) 패스핵 3rd PATH-HACK 대상 (부산중소기업벤처청장상)
 - (2022) 제10회 K-해커톤 본선 진출
 
-### 그외 TMI
+### Org
+- 퓨마스 & 화이트컴 부원 & 운영진 (2018~2021)
+- 부산 연합 패러글라이딩 동아리 조나단 회장 (2019)
+- 제 27사단 화생방지원대 제독차 운전병 (2019~2020)
+- 연합 앱런칭 동아리 UMC 2nd 웹파트장 (2022)
+- 교내 앱제작 창업 동아리 Apptive 부원 (2022)
+
+### TMI
 - 청각장애인을 위한 육아 도우미 시스템 특허 출원
 - 교내 수강신청 연습 사이트 개발
 - 과제 채점사이트 NESPA 개발
