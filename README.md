@@ -13,15 +13,6 @@ nowadays I'm interested in android development with Jetpack Compose
 - (2022) 패스핵 3rd PATH-HACK 대상 (부산중소기업벤처청장상)
 - (2022) 제10회 K-해커톤 본선 진출
 
-### TMI
-- 청각장애인을 위한 육아 도우미 시스템 특허 출원
-- 교내 수강신청 연습 사이트 개발
-- 과제 채점사이트 NESPA 개발
-- 조프입, 조료구조, 조고리즘 모두 A+
-- 교내 전공강의 실습조교 활동 (컴퓨터프로그래밍입문, 웹응용프로그래밍)
-- DX Camp 데이터 창업지원 프로그램 참가 중
-
-
 ### Links
 <p align="center">
   
