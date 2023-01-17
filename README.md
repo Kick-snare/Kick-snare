@@ -1,4 +1,4 @@
-### Hi there 👋 
+### Hi there 👋    
 wanna be dev, I'm **Kick-snare** (hyjhyj0901)  
 nowadays I'm interested in android development with Jetpack Compose
 
