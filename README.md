@@ -5,7 +5,7 @@ Nowadays, interested in **Android development** with Jetpack Compose
 ### Experience
 | Type | Date | Content | Role |
 | :--: | :--: | :--: | :--: |
-| **Intern** | 2023.07 - 2023.08  | **[Kakao Healthcare](https://kakaohealthcare.com/)** | Android Developer |
+| **Intern** | 2023.07 ~  | **[Kakao Healthcare](https://kakaohealthcare.com/)** | Android Developer |
 | **Intern** | 2023.03 - 2023.06  | **[Sendy](https://sendy.ai/)** | Android Developer |
 | **Activity** | 2022.12 - 2023.02 | **[Smilegate Winter://Dev.Camp](https://github.com/sgdevcamp2022)** | Android Developer |
 | **Activity** | 2022.09 - 2022.12 | **[Apptive](https://github.com/ApptiveDev)** | Android Developer |
