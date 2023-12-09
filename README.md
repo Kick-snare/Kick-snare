@@ -6,9 +6,9 @@ developing service, **Pasta** andorid app in @virtualcare
 
 ### Careers
 
-- KakaoHealthcare (23.07 ~ )
-- Sendy (23.03 ~ 23.06)
-- Pusan Nat'l Univ (18.03 ~ 24.02)
+- [KakaoHealthcare](https://kakaohealthcare.com/) (23.07 ~ )
+- [Sendy](https://sendy.ai/) (23.03 ~ 23.06)
+- [Pusan Nat'l Univ](https://www.pusan.ac.kr/eng/Main.do) (18.03 ~ 24.02)
 
 ### Links
 <p align="center">
