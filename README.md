@@ -2,7 +2,8 @@
 Wanna be dev, wannabe dev. I'm **Kick-snare**  
 interested in **Android development** with Jetpack Compose
 
-developing service, **[PASTA](https://play.google.com/store/apps/details?id=com.kakaohealthcare.pasta)** andorid application in @virtualcare
+### Nowadays
+developing **[PASTA](https://play.google.com/store/apps/details?id=com.kakaohealthcare.pasta)** andorid application
 
 ### Careers
 
