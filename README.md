@@ -1,6 +1,7 @@
 ### 홍유준 / (Hong Yoo Jun)
-Wanna be dev, wannabe dev. I'm **Kick-snare**  
-interested in **Android development** with Jetpack Compose
+
+🤚 I’m an Android software engineer,
+interested in Jetpack Compose and Functional Programming.
 
 ### Nowadays
 developing **[PASTA](https://play.google.com/store/apps/details?id=com.kakaohealthcare.pasta)** andorid application
