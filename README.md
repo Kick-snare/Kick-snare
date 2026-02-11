@@ -5,6 +5,12 @@
 
 Nowadays, I'm developing the **[PASTA](https://play.google.com/store/apps/details?id=com.kakaohealthcare.pasta)** Andorid application.
 
+### Recent Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ### Careers
 
 - [KakaoHealthcare](https://kakaohealthcare.com/) (23.07 ~ )
