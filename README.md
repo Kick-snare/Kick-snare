@@ -1,8 +1,5 @@
 ### 홍유준 / (Hong Yoo Jun)
 
-🤚 I’m an Android software engineer, interested in Jetpack Compose and Functional Programming.  
-
-
 Nowadays, I'm developing the **[PASTA](https://play.google.com/store/apps/details?id=com.kakaohealthcare.pasta)** Andorid application.
 
 ### Recent Blog posts
